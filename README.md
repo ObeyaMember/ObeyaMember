@@ -1,4 +1,4 @@
-- 👋 Hi, I’m currently a student at Lycée Faidherbe in classe prépa MP2I.
+- 👋 Hi, I’m currently a student at Lycée Faidherbe in classe prépa MPI.
 - 👀 I’m interested in CompSci, Maths, Physics, Philosophy and uhh everything that exists.
 - 🌱 I’m currently learning Ocaml and C. Getting into some more advanced Mathematics too.
 - 📫 How to reach me: Email: poprastef@gmail.com | Linkedin: https://www.linkedin.com/in/stefan-rares-popescu-a53798312/
